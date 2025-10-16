@@ -66,7 +66,7 @@ This S3 lab serves as a foundation for upcoming labs such as:
 
 **Kenneth Jay Herrera**  
 💻 Project Manager transitioning into Cybersecurity & Cloud Security  
-🌐 [[LinkedIn](#)](https://www.linkedin.com/in/herrerakennethjay/) – Open to remote cybersecurity internships & cloud security roles 
+🌐 [[LinkedIn](#)](https://www.linkedin.com/in/herrerakennethjay/) – Open to remote cybersecurity internships & cloud security roles
 🗓️ Lab Completion: October 2025  
 
 ---
